@@ -23,13 +23,14 @@
 | ---- | ---- | ---- | ---- | ---- |
 |    squad 2.0 train  | 46530 | 43498 | 90K | [squad 2.0 train](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_2.0/train-v2.0-zh.json) |
 | squad 2.0 dev | 3391   | 5945 | 9K | [squad 2.0 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_2.0/dev-v2.0-zh.json) |
-| squad 1.1 dev | 7192 | - | 7k | [squad 1.1 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_1.1/dev-v1.1-zh.json) |
+| squad 1.1 dev | 7679 | - | 7k | [squad 1.1 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_1.1/dev-v1.1-zh.json) |
+| squad 1.1 train | 55526 | - | 55k | [squad 1.1 train](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_1.1/train-v1.1-zh.json) |
 
 
 
 ### 计划安排
 
-- [ ] 数据调整，目前大概有四分之一的数据答案和问答翻译不一致，因为文章翻译是有语境的
+- [x] ~~数据调整，目前大概有四分之一的数据答案和问答翻译不一致，因为文章翻译是有语境的,~~
 - [ ] 在主流模型上的评价工作
 - [ ] 其他英文机器阅读理解数据集的转换
 
