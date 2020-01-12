@@ -26,10 +26,10 @@
 
 |    数据集  |   有答案   |  无答案    |   总数   |下载链接      |
 | ---- | ---- | ---- | ---- | ---- |
-| squad-zen 1.0 train | 68213 | 43498| 110k | [squad-zen 1.0 train](https://github.com/zengjunjun/ChineseSquad/blob/master/squad-zen/train-zen-v1.0.json) |
-| squad-zen 1.0 dev | 8326 | 5954 | 14k | [squad-zen 1.0 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad-zen/dev-zen-v1.0.json) |
-|    squad 2.0 train  | 46530 | 43498 | 90K | [squad 2.0 train](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_2.0/train-v2.0-zh.json) |
-| squad 2.0 dev | 3391   | 5945 | 9K | [squad 2.0 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_2.0/dev-v2.0-zh.json) |
+| **squad-zen 1.0 train** | 68213 | 43498| 110k | [squad-zen 1.0 train](https://github.com/zengjunjun/ChineseSquad/blob/master/squad-zen/train-zen-v1.0.json) |
+| **squad-zen 1.0 dev** | 8326 | 5954 | 14k | [squad-zen 1.0 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad-zen/dev-zen-v1.0.json) |
+| ~~squad 2.0 train~~  | 46530 | 43498 | 90K | [squad 2.0 train](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_2.0/train-v2.0-zh.json) |
+| ~~squad 2.0 dev~~ | 3391   | 5945 | 9K | [squad 2.0 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_2.0/dev-v2.0-zh.json) |
 | squad 1.1 dev | 7679 | - | 7k | [squad 1.1 dev](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_1.1/dev-v1.1-zh.json) |
 | squad 1.1 train | 55526 | - | 55k | [squad 1.1 train](https://github.com/zengjunjun/ChineseSquad/blob/master/squad_1.1/train-v1.1-zh.json) |
 
@@ -62,4 +62,4 @@
 
 ### 声明
 
-该数据集只能用于学术研究，请勿商用
+该数据集只能用于学术研究，请勿商用。
