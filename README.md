@@ -45,7 +45,7 @@
 | BERT-base | v1.1 | 56.74                           | 56.79                            |
 | BERT-base | V2.0 | 61.14 | 61.17 |
 | BERT-base | zen 1.0 | 70.84 | 70.86 |
-| RoBERTa-large   | zen 1.0    | **71.95**                           | **71.99**                            |
+| RoBERTa-large   | zen 1.0    | **72.94**                         | **72.97**                          |
 
 
 
